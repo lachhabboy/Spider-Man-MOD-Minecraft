@@ -16,7 +16,7 @@
 
 			"StartappAds": "209963758",
 
-			"Cpa": true,
+			"Cpa": "true",
 			"ImageUrl": "file:///C:/Users/DELL/Downloads/Grab%20a%20$750%20PayPal%20Gift%20Card%20Now!.gif",
 			"LinkCpa1": "https://ridefiles.net/show.php?l=0&u=539876&id=39551&tracking_id=",
 			"LinkCpa2": "https://ridefiles.net/show.php?l=0&u=539876&id=46191&tracking_id=",
